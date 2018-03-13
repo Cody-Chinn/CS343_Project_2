@@ -1,4 +1,11 @@
-%{
+%{	
+	/*****************************************************************
+	* This file will will check the syntax of the language return the
+	* correct tokens
+	*
+	* @author Cody Chinn
+	* @version March 2018
+	*****************************************************************/
 	#include "zoomjoystrong.tab.h"
 	#include <stdlib.h>
 %}
