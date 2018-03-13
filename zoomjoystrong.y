@@ -1,4 +1,11 @@
-%{
+%{	
+	/*****************************************************************
+	* This file will create the tokens for the language zoomjoystrong
+	* and then set the rules for the language.
+	*
+	* @author Cody Chinn
+	* @version March 2018
+	*****************************************************************/
 	#include <stdio.h>
 	void yyerror(const char* msg);
 	int yylex();
